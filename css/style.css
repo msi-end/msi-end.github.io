@@ -292,7 +292,11 @@ body.dark .loader_line:after{
 /*---------------------------------------------------*/
 /*	02) KNOW TOPBAR
 /*---------------------------------------------------*/
+.social-icon{
+	display: flex;
+	align-items: center;
 
+}
 .know_tm_topbar{
 	position: absolute;
 	top: 0px;
