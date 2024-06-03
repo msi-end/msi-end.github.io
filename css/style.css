@@ -1453,7 +1453,7 @@ body.dark .loader_line:after{
 .know_tm_resume .info_list ul li{
 	width: 100%;
 	float: left;
-	margin: 0px 0px 45px 0px;
+	margin: 0px 0px 20px 0px;
 }
 .know_tm_resume .info_list ul li:last-child{
 	margin-bottom: 0px;
